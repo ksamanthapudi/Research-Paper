@@ -53,6 +53,5 @@ This system provides a low-cost, deployable solution to reduce drowsiness-relate
 ## 📄 Reference
 
 Published in: *International Journal of Research Publication and Reviews (Vol 6, Issue 6, June 2025)*  
-Link: [IJRPR](http://www.ijrpr.com/)  
 Authors: Kavya Samanthapudi, Aditya Jain, Sharvesh Sakthivel, Darpally Saketh Goud,
 Gopi Chandu Injara
